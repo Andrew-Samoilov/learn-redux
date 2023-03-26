@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/learn-redux/static/css/main.aaaf48ca.css",
-    "main.js": "/learn-redux/static/js/main.d6ba67a8.js",
+    "main.css": "/learn-redux/static/css/main.25ba59ea.css",
+    "main.js": "/learn-redux/static/js/main.66171d02.js",
     "index.html": "/learn-redux/index.html",
-    "main.aaaf48ca.css.map": "/learn-redux/static/css/main.aaaf48ca.css.map",
-    "main.d6ba67a8.js.map": "/learn-redux/static/js/main.d6ba67a8.js.map"
+    "main.25ba59ea.css.map": "/learn-redux/static/css/main.25ba59ea.css.map",
+    "main.66171d02.js.map": "/learn-redux/static/js/main.66171d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaaf48ca.css",
-    "static/js/main.d6ba67a8.js"
+    "static/css/main.25ba59ea.css",
+    "static/js/main.66171d02.js"
   ]
 }
